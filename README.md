@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Dilanka
 
-<!--
-**Dilankaherath240/Dilankaherath240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering undergraduate at **University of Moratuwa**, Sri Lanka  
+💡 Passionate about Machine Learning, Power Systems, and Electronics  
+🚀 I love building projects that combine software, data, and real-world engineering systems
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: Python, C++, Java, MATLAB  
+- Machine Learning
+- Signal Processing  
+- PCB Design & Electronics  
+- Simulation & Modeling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- **Advanced Light Intensity Indicator** – DSP-based hardware project  
+- **Voice Controlled Robot Arm** – MATLAB simulation, solidworks & research  
+- **CCPP Power Output Prediction** – Machine Learning regression project  
+
+## 🌱 Currently Learning
+- Power Systems  
+- Circuit Design & Analysis  
+- Deep Learning  
+- Generative AI  
+
+## 🎯 Goal
+To secure **foreign internships** and contribute to **research-oriented engineering projects** while building industry-ready skills.
+
+## 💬 Ask Me About
+Machine Learning, MATLAB simulations, DSP projects, electronics, and engineering systems.
+
+📍 Sri Lanka
