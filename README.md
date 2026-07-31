@@ -14,16 +14,17 @@
 ## 📊 Projects
 - **Advanced Light Intensity Indicator** – DSP-based hardware project  
 - **Voice Controlled Robot Arm** – MATLAB simulation, solidworks & research  
-- **CCPP Power Output Prediction** – Machine Learning regression project  
+- **CCPP Power Output Prediction** – Machine Learning regression project
+- **Daq based fire fighting robot** – Sensors implementations,labview, electronics
 
 ## 🌱 Currently Learning
 - Power Systems  
 - Circuit Design & Analysis  
 - Deep Learning  
-- Generative AI  
+- Matlab 
 
 ## 🎯 Goal
-To secure **foreign internships** and contribute to **research-oriented engineering projects** while building industry-ready skills.
+To secure **internships** and contribute to **AI/Power systems oriented engineering projects** while building industry-ready skills.
 
 ## 💬 Ask Me About
 Machine Learning, MATLAB simulations, DSP projects, electronics, and engineering systems.
